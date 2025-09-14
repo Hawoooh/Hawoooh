@@ -5,7 +5,7 @@
 
 <!-- Logo / Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%;" alt="My Avatar"/>
+  <img src="https://github.com/hawoooh.png" width="120" style="border-radius:50%;" alt="My Avatar"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm M. Faiq Irsyad Ramadhan</h1>
@@ -20,7 +20,7 @@
 - 📫 Reach me on: [GitHub](https://github.com/username) | [LinkedIn](#)  
 
 <p align="center">
-  <a href="https://your-website-link.com" target="_blank">
+  <a href="https:[//your-website-link.com](https://hawoooh.github.io/Profil/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>

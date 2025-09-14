@@ -17,10 +17,10 @@
 - 🔭 Currently learning **Web Development** and **Game Development**  
 - 🌱 Exploring **JavaScript, React, Node.js, and Python**  
 - 🎮 Love building creative projects, coding, and gaming  
-- 📫 Reach me on: [GitHub](https://github.com/username) | [LinkedIn](#)  
+- 📫 Reach me on: [GitHub](https://github.com/hawoooh) | [LinkedIn](#)  
 
 <p align="center">
-  <a href="https:[//your-website-link.com](https://hawoooh.github.io/Profil/)" target="_blank">
+  <a href="https://hawoooh.github.io/Profil/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20My%20Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>

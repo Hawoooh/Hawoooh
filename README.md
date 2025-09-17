@@ -48,7 +48,7 @@
 
 ## 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawoooh&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hawoooh&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawoooh&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
